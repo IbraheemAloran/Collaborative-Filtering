@@ -1,2 +1,2 @@
 # Collaborative-Filtering
-Recommendation System using Collaborative Filtering
+Movie Recommendation System using Collaborative Filtering. Model consists of Matrix Factorization with fully connected layers, and dropout layers for experimentation. 
